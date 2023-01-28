@@ -19,7 +19,7 @@ other = "Archives"
 other = "Home"
 
 [notFound]
-other = "Oops, page not found…"
+other = "Shh, dont talk! You've reached an undefined destination O_O"
 
 
 # posts/single.html
